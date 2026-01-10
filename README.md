@@ -1,2 +1,2 @@
 # ProjectsOfKlo
-These are projects which I have done outside of school or work.
+This is a project I have done outside of school or work in my free time
