@@ -1,0 +1,26 @@
+html {
+    background-color: whitesmoke;
+}
+
+body {
+    margin: 15px;
+}
+
+img {
+    border: solid 1px;
+    border-radius: 10px;
+    width: 550px;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    float: left;
+    padding-right: 15px;
+}

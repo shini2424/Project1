@@ -3,24 +3,20 @@ html {
 }
 
 body {
-    margin: 15px;
+    margin: 0;
 }
 
-img {
-    border: solid 1px;
-    border-radius: 10px;
-    width: 550px;
-    height: 500px;
-    margin-bottom: 20px;
-}
-
-ul {
-    list-style-type: none;
+#top-menu {
+    background-color: darkgrey;
     margin: 0;
     padding: 0;
 }
 
-ul li {
-    float: left;
-    padding-right: 15px;
+#top-menu h1 {
+    margin-top: 0;
+    padding: 10px;
+}
+
+h2, h3 {
+    padding: 10px;
 }
