@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    border: solid;
+    color: purple;
+}
+
+h1, h2, h3 {
+    background-color: purple;
+    display: inline-block;
+    color: white;
+}
