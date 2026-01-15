@@ -4,20 +4,6 @@ html {
 
 body {
     margin: 15px;
-
-}
-
-body h1 {
-    margin: 0;
-    padding-bottom: 15px;
-}
-
-body h2 {
-    padding-bottom: 15px;
-}
-
-#heading-link h1 {
-    padding-top: 15px;
 }
 
 img {
@@ -25,6 +11,7 @@ img {
     border-radius: 10px;
     width: 550px;
     height: 500px;
+    margin-bottom: 20px;
 }
 
 ul {
