@@ -42,6 +42,16 @@ footer p {
     text-align: center;
 }
 
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer li {
+    padding-left: 7px;
+}
+
 .img {
     border: solid;
     width: 500px;
