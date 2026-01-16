@@ -1,29 +1,49 @@
-html {
-    background-color: whitesmoke;
-}
-
-body {
-    margin: 0;
-}
-
 #top-menu {
-    background-color: darkgrey;
+    background-color: lightsteelblue;
     margin: 0;
     padding: 0;
 }
 
 #top-menu h1 {
     margin-top: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+h2, h3, p, h1{
     padding: 10px;
 }
 
-h2, h3, p {
-    padding: 10px;
+#top-menu ul {
+  list-style-type: none;
+  margin-left: 10px;
+  padding-left: 0;
+  padding-bottom: 15px;
+  display: flex;
+}
+
+#top-menu li {
+    margin-right: 10px;
+}
+
+.img {
+    border: solid;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    border-color: grey;
+    margin-left: 10px;
+}
+
+body {
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
 }
 
 footer {
   padding: 5px;
-  background-color: darkgrey;
+  background-color: lightsteelblue;
   color: black;
 }
 
