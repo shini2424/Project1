@@ -20,3 +20,13 @@ body {
 h2, h3, p {
     padding: 10px;
 }
+
+footer {
+  padding: 5px;
+  background-color: darkgrey;
+  color: black;
+}
+
+footer p {
+    text-align: center;
+}
